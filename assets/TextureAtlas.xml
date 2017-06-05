@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Безымянный-1.png">
+	<!-- Created with Adobe Flash Professional version 15.0.0.173 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="ball" x="10" y="10" width="65" height="65" pivotX="0" pivotY="0"/>
+	<SubTexture name="bg" x="85" y="10" width="640" height="400" pivotX="0" pivotY="0"/>
+	<SubTexture name="block" x="735" y="10" width="100" height="100" pivotX="0" pivotY="0"/>
+	<SubTexture name="player" x="845" y="10" width="150" height="60" pivotX="0" pivotY="0"/>
+</TextureAtlas>
