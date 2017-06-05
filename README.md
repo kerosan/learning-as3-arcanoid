@@ -1,2 +1,2 @@
 learning-as3-arcanoid
-compiling for emulator, android phone and web browser
+Build on Apache Flex SDK tested on Android phone and Web browser
